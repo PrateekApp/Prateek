@@ -1,0 +1,141 @@
+{
+    "project.type": "js",
+    "appaddrkey": "",
+    "createdVizVersion": "3.0.0",
+    "appversionkey": "1.0.0",
+    "mwportkey": "",
+    "defaulttheme": "defaultTheme",
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "mwaddrkey": "",
+    "createdgaversion": "6.5.0",
+    "build": "debug",
+    "winmobileguidkey": "",
+    "appidkey": "Prateek",
+    "currentgaversion": "6.5.0",
+    "mwhttpsportkey": "",
+    "apppackagekey": "",
+    "startupformkey": "Form09fd81942ef4945",
+    "vendornamekey": "KonyLabs",
+    "konyVizVersion": "3.0.0",
+    "appnamekey": "Prateek",
+    "APPLICATION_THEME": "default",
+    "project_version": "sprint21",
+    "appmenu": {
+        "desktop": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "e2739110298d45369fe651ee00587fc3"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "d01412644b9b41a596eabb3de0ac5fd6"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "f231c4544df74b45a476274bdd2a8369"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "313120534cb24ba8a87631874e2007a6"
+                }
+            ]
+        },
+        "focusSkin": null,
+        "focusskin": null,
+        "mobile": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "53688435d2354248b924c38cfe3a36ef"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "eb5f03e47c1d4a7984dcd22bb1cb651c"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "98f45348871d4c1bb02768d76e07cddd"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "a36a1daf812d4918aba3fc975c67d455"
+                }
+            ]
+        },
+        "osPlatform": "",
+        "osVersion": "iOS7",
+        "skin": null,
+        "tablet": {
+            "data": [
+                {
+                    "id": "appmenuitemid1",
+                    "title": "Item 1",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "kuid": "1708b686006e472fb0e5685d70d4217d"
+                },
+                {
+                    "id": "appmenuitemid2",
+                    "title": "Item 2",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "kuid": "e2797b4953a14e1dbb13d3bf20feff69"
+                },
+                {
+                    "id": "appmenuitemid3",
+                    "title": "Item 3",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "kuid": "4c20f7d33ea94ebc9dc5c2fe8832c8b9"
+                },
+                {
+                    "id": "appmenuitemid4",
+                    "title": "Item 4",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "kuid": "c18c8384932e4a43bd38ab4793a261dd"
+                }
+            ]
+        },
+        "wType": "Appmenu"
+    },
+    "tabletstartupformkey": "Form08aa176bd0f7348",
+    "desktopstartupformkey": "Form04cf56677a6e442"
+}
